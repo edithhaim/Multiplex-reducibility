@@ -1,6 +1,7 @@
 # Multiplex-reducibility 
 
 multired.py (Python 3.7+ version)
+
 Copyright (C) 2015 Vincenzo (Enzo) Nicosia
  
 This program is free software: you can redistribute it and/or modify
